@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Production and development
+dist
+build
+cert
+temp
+certs
+creds
+src/assets/esri
